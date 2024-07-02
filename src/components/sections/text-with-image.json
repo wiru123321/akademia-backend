@@ -1,0 +1,35 @@
+{
+  "collectionName": "components_sections_text_with_images",
+  "info": {
+    "displayName": "Text with image",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "picture": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "links.button-link"
+    },
+    "isInverted": {
+      "type": "boolean"
+    }
+  }
+}

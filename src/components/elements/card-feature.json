@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_elements_card_features",
+  "info": {
+    "displayName": "CardFeature",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "icon": {
+      "type": "enumeration",
+      "enum": [
+        "LAPTOP",
+        "FILE",
+        "CHECK",
+        "PERSON",
+        "PRICE",
+        "BOOK",
+        "TIME",
+        "GROUP"
+      ]
+    }
+  }
+}

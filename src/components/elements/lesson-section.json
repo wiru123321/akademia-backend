@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_elements_lesson_sections",
+  "info": {
+    "displayName": "Lesson Section"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    }
+  }
+}

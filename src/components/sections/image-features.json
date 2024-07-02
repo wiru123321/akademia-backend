@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_sections_image_features",
+  "info": {
+    "displayName": "Image features"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "imageFeature": {
+      "displayName": "Image feature",
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.image-feature"
+    }
+  }
+}

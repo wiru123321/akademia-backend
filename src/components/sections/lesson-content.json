@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_sections_lesson_contents",
+  "info": {
+    "displayName": "Lesson Content",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "pretitle": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "rightContent": {
+      "type": "richtext"
+    },
+    "leftContent": {
+      "type": "richtext"
+    },
+    "section": {
+      "type": "string"
+    }
+  }
+}

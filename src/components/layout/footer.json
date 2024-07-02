@@ -1,0 +1,49 @@
+{
+  "collectionName": "components_layout_footers",
+  "info": {
+    "displayName": "Footer",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "copyrights": {
+      "type": "text"
+    },
+    "lessonSection": {
+      "displayName": "Lesson Section",
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.lesson-section"
+    },
+    "trainingSection": {
+      "displayName": "Training Section",
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.training-section"
+    },
+    "contactSection": {
+      "displayName": "Contact Section",
+      "type": "component",
+      "repeatable": false,
+      "component": "elements.contact-section"
+    },
+    "pageList": {
+      "displayName": "Page List",
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.page-list"
+    },
+    "lessonTitle": {
+      "type": "string"
+    },
+    "trainingTitle": {
+      "type": "string"
+    }
+  }
+}

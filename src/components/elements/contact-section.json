@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_elements_contact_sections",
+  "info": {
+    "displayName": "Contact Section"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "address": {
+      "type": "string"
+    },
+    "addressUrl": {
+      "type": "string"
+    },
+    "phone": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "instagram": {
+      "type": "string"
+    },
+    "instagramUrl": {
+      "type": "string"
+    }
+  }
+}

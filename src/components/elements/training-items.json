@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_elements_training_items",
+  "info": {
+    "displayName": "Training items"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

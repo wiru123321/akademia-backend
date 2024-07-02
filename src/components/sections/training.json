@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_sections_trainings",
+  "info": {
+    "displayName": "Training",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "item": {
+      "displayName": "Training items",
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.training-items"
+    },
+    "section": {
+      "type": "string"
+    }
+  }
+}

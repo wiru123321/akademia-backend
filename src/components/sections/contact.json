@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_sections_contacts",
+  "info": {
+    "displayName": "Contact",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "contactCard": {
+      "displayName": "Contact card",
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.contact-card"
+    }
+  }
+}

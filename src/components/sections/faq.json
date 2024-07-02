@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_sections_faqs",
+  "info": {
+    "displayName": "FAQ",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "lessonItems": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.faq-item"
+    },
+    "lessonTitle": {
+      "type": "string"
+    },
+    "trainingTitle": {
+      "type": "string"
+    },
+    "trainingItems": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.faq-item"
+    }
+  }
+}

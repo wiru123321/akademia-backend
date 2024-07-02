@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_elements_lesson_elements",
+  "info": {
+    "displayName": "Lesson element"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

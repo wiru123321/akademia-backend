@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_links_navbar_links",
+  "info": {
+    "displayName": "Navbar link"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "newTab": {
+      "type": "boolean"
+    },
+    "url": {
+      "type": "string"
+    },
+    "megaSection": {
+      "displayName": "Mega section",
+      "type": "component",
+      "repeatable": true,
+      "component": "links.mega-section"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_links_news",
+  "info": {
+    "displayName": "Mega menu",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "newTab": {
+      "type": "boolean"
+    },
+    "url": {
+      "type": "string"
+    }
+  }
+}

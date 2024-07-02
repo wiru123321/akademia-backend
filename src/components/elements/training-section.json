@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_elements_training_sections",
+  "info": {
+    "displayName": "Training Section"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    }
+  }
+}

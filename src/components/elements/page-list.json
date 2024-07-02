@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_elements_page_lists",
+  "info": {
+    "displayName": "Page List"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    },
+    "newTab": {
+      "type": "boolean"
+    }
+  }
+}

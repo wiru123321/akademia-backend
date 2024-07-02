@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_elements_multiple_cards",
+  "info": {
+    "displayName": "Multiple Card",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "card": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.card"
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}

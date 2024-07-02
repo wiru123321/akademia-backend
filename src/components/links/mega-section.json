@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_links_mega_sections",
+  "info": {
+    "displayName": "Mega section",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "newTab": {
+      "type": "boolean"
+    },
+    "url": {
+      "type": "string"
+    },
+    "group": {
+      "type": "enumeration",
+      "enum": [
+        "Indywidualne",
+        "Grupowe"
+      ]
+    }
+  }
+}

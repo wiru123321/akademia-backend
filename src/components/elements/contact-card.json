@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_elements_contact_cards",
+  "info": {
+    "displayName": "Contact card",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "icon": {
+      "type": "enumeration",
+      "enum": [
+        "MAIL",
+        "PHONE",
+        "ADRESS",
+        "INSTAGRAM",
+        "COMPANY"
+      ]
+    },
+    "isSocialMedia": {
+      "type": "boolean"
+    },
+    "additionalDescription": {
+      "type": "text"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

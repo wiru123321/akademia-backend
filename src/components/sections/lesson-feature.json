@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_sections_lesson_features",
+  "info": {
+    "displayName": "Lesson feature",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "item": {
+      "displayName": "Lesson element",
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.lesson-element"
+    },
+    "pretitle": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_sections_lesson_dividers",
+  "info": {
+    "displayName": "Lesson divider"
+  },
+  "options": {},
+  "attributes": {
+    "items": {
+      "displayName": "divider item",
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.divider-item"
+    }
+  }
+}

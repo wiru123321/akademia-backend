@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_slices_testimonials",
+  "info": {
+    "name": "Testimonial",
+    "displayName": "Testimonial",
+    "icon": "user-check",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "text",
+      "required": true
+    },
+    "authorName": {
+      "type": "string",
+      "required": true
+    },
+    "date": {
+      "type": "date"
+    }
+  }
+}

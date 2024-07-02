@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_elements_divider_items",
+  "info": {
+    "displayName": "divider item"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "icon": {
+      "type": "enumeration",
+      "enum": [
+        "TIME",
+        "MONEY",
+        "GROUP"
+      ]
+    }
+  }
+}

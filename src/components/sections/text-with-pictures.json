@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_sections_text_with_pictures",
+  "info": {
+    "displayName": "Text with pictures",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "pictures": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}
