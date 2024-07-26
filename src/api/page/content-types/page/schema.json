@@ -52,7 +52,8 @@
         "sections.lesson-feature",
         "sections.lesson-divider",
         "sections.training",
-        "sections.small-galery"
+        "sections.small-galery",
+        "sections.privacy-policy"
       ],
       "pluginOptions": {
         "i18n": {

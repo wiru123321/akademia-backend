@@ -20,6 +20,9 @@
     },
     "message": {
       "type": "text"
+    },
+    "checkbox": {
+      "type": "boolean"
     }
   }
 }
