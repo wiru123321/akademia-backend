@@ -10,6 +10,9 @@ const populate = {
       picture: {
         fields: ["url", "alternativeText", "caption", "width", "height"],
       },
+      mobilePicture: {
+        fields: ["url", "alternativeText", "caption", "width", "height"],
+      },
       buttons: {
         populate: true,
       },
